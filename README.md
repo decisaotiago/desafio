@@ -37,12 +37,12 @@
     - [ ] No item da lista deve possuir uma forma de voltar a a atividade para não concluída.
     - [ ] No item da lista deve possuir uma forma de excluir a atividade.
 
-#### 3.1.3 Modelo
-[TODO] = Adicionar o link da especificação da tela.
+<!-- #### 3.1.3 Modelo
+[TODO] = Adicionar o link da especificação da tela. -->
 
-#### 3.1.4 - Observações
+#### 3.1.3 - Observações
     A interface pode ser feita da forma que desejar atendendo os recursos listados na sessão #3.1.2.
-    Não sendo necessário seguir o modelo da sessão 3.1.3
+<!-- Não sendo necessário seguir o modelo da sessão 3.1.3 -->
 ### 3.2 - Backend
 #### 3.2.1 - Descrição.
     O backend deve possuir as seguintes funcionalidades.
