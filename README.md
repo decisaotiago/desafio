@@ -71,10 +71,13 @@
 
 # 4 - Entrega.
 
-    Para realizar a entrega do projeto siga as instruções abaixo:
+    A entrega pode ser realizada usando uma das formas abaixo:
 
-* Clone o projeto para sua estação de trabalho.
-* No diretório entregas, crie um novo diretório com seu nome.
-* Dentro do diretório do seu nome adicione todos os arquivos do seu projeto.
-* Crie um README.md com as instruções para rodar o projeto.
-* Crie um pull request para realizar a entrega.
+# 4.1 Git
+* Crie um repositorio publico em qualquer sistema de repositorio (Github, Gitlab, Bitbucket , etc).
+* Crie o seu projeto nesse repositorio.
+* Ao finalizar envia por e-mail para o avaliador o link do repositorio.
+
+# 4.2 ZIP
+* Crie um arquivo .zip com seu projeto.
+* Ao finalizar envia por e-mail para o avaliador o projeto compactado com o codigo.
