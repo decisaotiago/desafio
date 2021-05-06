@@ -1,4 +1,4 @@
-# 1 Descrição
+# 1 - Descrição
     Deve-se criar uma aplicação de lista de atividades (TODO).
     A aplicação dever possuir os seguintes comportamentos:
 * Criar tarefas
@@ -21,7 +21,7 @@
 
 # 3 - Requisitos
 
-### 3.1 Frontend
+### 3.1 - Frontend
 #### 3.1.1 - Descrição.
     A interface com o usuário deve permitir a manipulação da atividades tendo os seguintes recursos.
 #### 3.1.2 - Recursos.
